@@ -27,7 +27,6 @@
         "id": 2,
         "name": "السعودية"
       }
-      
     ]
   },
   "cities": {
@@ -41,7 +40,27 @@
         "id": 2,
         "name": "المنصورة"
       }
-      
     ]
+  },
+  "login": {
+    "status": 200,
+    "data": {
+      "id": 1,
+      "token": "token",
+      "image": "image",
+      "name": "name",
+      "phone": "phone",
+      "phone_active": true,
+      "is_suspend": true,
+      "gender": "male | female",
+      "city": {
+        "id": 1,
+        "name": "القاهرة",
+        "country": {
+          "id": 1,
+          "name": "مصر"
+        }
+      }
+    }
   }
 }
