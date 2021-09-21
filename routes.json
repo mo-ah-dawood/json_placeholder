@@ -1,3 +1,5 @@
 {
-  "/cities?country=:id": "/cities"
+  "/cities?country=:id": "/cities",
+  "/intro": "/intro",
+  "/countries": "/countries"
 }
