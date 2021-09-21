@@ -1,12 +1,19 @@
 {
   "intro": {
-    "status":200,
-    "data":[
+    "status": 200,
+    "data": [
       {
-      "image":"vector1.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        "image": "vector1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      },
+      {
+        "image": "vector2.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      },
+      {
+        "image": "vector3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
     ]
   }
-  
 }
