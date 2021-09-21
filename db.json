@@ -1,5 +1,5 @@
 {
-  "/intro": {
+  "intro": {
     "status": 200,
     "data": [
       {
@@ -16,7 +16,7 @@
       }
     ]
   },
-  "/countries": {
+  "countries": {
     "status": 200,
     "data": [
       {
@@ -30,7 +30,7 @@
       
     ]
   },
-  "/cities": {
+  "cities": {
     "status": 200,
     "data": [
       {
