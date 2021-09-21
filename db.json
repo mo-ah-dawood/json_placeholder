@@ -30,7 +30,7 @@
       
     ]
   },
-  "cities": {
+  "cities?country=:id": {
     "status": 200,
     "data": [
       {
