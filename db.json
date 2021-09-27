@@ -52,7 +52,7 @@
       "message":"suspend message",
       "phone": "phone",
       "phone_active": false,
-      "is_suspend": true,
+      "is_suspend": false,
       "gender": "male | female",
       "city": {
         "id": 1,
