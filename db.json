@@ -49,6 +49,7 @@
       "token": "token",
       "image": "image",
       "name": "name",
+      "message":"suspend message",
       "phone": "phone",
       "phone_active": true,
       "is_suspend": true,
