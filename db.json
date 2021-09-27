@@ -51,7 +51,7 @@
       "name": "name",
       "message":"suspend message",
       "phone": "phone",
-      "phone_active": true,
+      "phone_active": false,
       "is_suspend": true,
       "gender": "male | female",
       "city": {
