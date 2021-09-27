@@ -42,7 +42,7 @@
       }
     ]
   },
-  "login_or_activation": {
+  "login_or_activation_or_get_info": {
     "status": 200,
     "data": {
       "id": 1,
