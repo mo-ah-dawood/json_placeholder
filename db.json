@@ -42,6 +42,17 @@
       }
     ]
   },
+  "notifications": {
+    "status": 200,
+    "data": [
+      {
+        "id": 1,
+        "message": "تمت الموافقة على طلب إضافة متجرك بقيمة 500 ريال",
+        "readed": false,
+        "link":"http://google.com"
+      }
+    ]
+  },
   "login_or_activation_or_get_info": {
     "status": 200,
     "data": {
@@ -49,7 +60,7 @@
       "token": "token",
       "image": "image",
       "name": "name",
-      "message":"suspend message",
+      "message": "suspend message",
       "phone": "phone",
       "phone_active": false,
       "is_suspend": false,
