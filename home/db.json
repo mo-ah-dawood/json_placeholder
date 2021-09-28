@@ -1,0 +1,42 @@
+{
+ 
+  "sponser": {
+    "status": 200,
+    "data": [
+      {
+        "id": 1,
+        "link":"...",
+        "image": "slider1.png"
+      },
+      {
+        "id": 2,
+        "image": "39381.jpg"
+      },
+      {
+        "id": 3,
+        "image": "21168.jpg"
+      }
+    ]
+  },
+ 
+  "notifications": {
+    "status": 200,
+    "data": [
+      {
+        "id": 1,
+        "message": "تمت الموافقة على طلب إضافة متجرك بقيمة 500 ريال",
+        "readed": false,
+        "need_payment": true,
+        "created_at": "2012-09-17T22:02:51Z"
+      },
+      {
+        "id": 2,
+        "message": "تمت الموافقة على طلب إضافة متجرك بقيمة 500 ريال",
+        "readed": true,
+        "need_payment": false,
+        "created_at": "2012-09-17T22:02:51Z"
+      }
+    ]
+  }
+ 
+}
